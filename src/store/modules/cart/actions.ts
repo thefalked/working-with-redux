@@ -5,6 +5,6 @@ export function addProductToCart(product: IItemProduct) {
     type: "ADD_PRODUCT_TO_CART",
     payload: {
       product,
-    }
-  }
+    },
+  };
 }
