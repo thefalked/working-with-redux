@@ -19,7 +19,7 @@ const Cart: React.FC = () => {
       </thead>
       <tbody>
         {cart.map((cartItem) => (
-          <tr>
+          <tr key={cartItem.product.id}>
             <td>{cartItem.product.title}</td>
             <td>{cartItem.product.price}</td>
             <td>{cartItem.quantity}</td>
