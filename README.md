@@ -1,7 +1,7 @@
-<h1 style="display: flex; align-items: center; justify-Content: center;">
-  <img alt="Redux Logo" title="move.it" src=".github/redux.svg" height="110" />
-  <span style="margin-right: 10px">+</span>
-  <img alt="Redux Saga logo" title="move.it" src=".github/redux-saga.png" height="80" />
+<h1 align="center">
+  <img alt="Redux Logo" title="Redux Logo" src=".github/redux.svg" height="80" />
+  <img alt="Plus Sign" title="Plus Sign" src=".github/plus.svg" height="60" />
+  <img alt="Redux Saga logo" title="Redux Saga Logo" src=".github/redux-saga.svg" height="80" />
 </h1>
 
 <p align="center">
